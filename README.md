@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @AndrewMcGuckin
-- 👨‍🎓 I'm a Graduate Software Developer from Scotland.
-- 🧳 I’m interested in all things Tech and travelling.
-- 👨‍💻 I’m currently collaborating with [@LJSkinner](https://github.com/LJSkinner) on some projects in [@Project-Roundtable](https://github.com/Project-Roundtable).
+- 👨‍🎓 I'm a Graduate Software Developer from Scotland currently working in VSAT Technical Support.
+- 🧳 I’m interested in all things technology and love travelling.
+- 👨‍💻 In my spare time I am collaborating with [@LJSkinner](https://github.com/LJSkinner) on some projects in [@Project-Roundtable](https://github.com/Project-Roundtable).
 - 📫 Feel free to <!-- explore some of my projects on www.andrewmcguckin.com or --> contact me about any projects listed here at github@andrewmcguckin.com
